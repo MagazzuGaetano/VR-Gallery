@@ -1,2 +1,2 @@
 # VR-Gallery
-A Vue.js - Firebase Application 
+A Simple 360° images Gallery built-in with React-VR
